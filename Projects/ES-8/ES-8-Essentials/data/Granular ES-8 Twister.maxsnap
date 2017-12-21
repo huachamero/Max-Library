@@ -1,0 +1,46 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Granular ES-8 Twister",
+	"origin" : "Granular ES-8 Twister",
+	"type" : "patcher",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"blob" : 				{
+					"vst~" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "Grain Streamer",
+							"origin" : "Grain Streamer.auinfo",
+							"type" : "AudioUnit",
+							"subtype" : "AudioEffect",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "Grain Streamer.auinfo",
+								"plugindisplayname" : "Grain Streamer",
+								"pluginsavedname" : "Grain Streamer",
+								"pluginsaveduniqueid" : 0,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"sliderorder" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+								"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+								"blob" : "231.hAGaoMGcv.i0AHv.DTfAGfPBJr.CTQWdvU1UyUmXzkGbkwUag4VclE1XzUmbkIGUjEFcgQkag0VYWYWYxMWZu4lDgUmY3IwQSQWaRzjSuI2SPvE..............n......AY81UA...DfPfA......BDD1......v..oiJIC...PPPe6tP....EHj3H6....fABMGYt....bvO.B......HDzDRlL...PB.kp2NfUUtQWZzwVYjAA.HTgFh7BM4DjQKA0q3B.......DP..........z....................ft™ÙS"
+							}
+
+						}
+ ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

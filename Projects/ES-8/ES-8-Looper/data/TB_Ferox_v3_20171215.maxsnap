@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "TB_Ferox_v3",
+	"origin" : "TB_Ferox_v3.vst",
+	"type" : "VST",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "TB_Ferox_v3.vst",
+		"plugindisplayname" : "TB_Ferox_v3",
+		"pluginsavedname" : "TB_Ferox_v3",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "116.CMlaKA....fQ3MzZ....AP0LFgE...P.....OPTYlEVcrQG...........................fOLwby8vLyMyyYzplOLwby9.NSI6SeeI8O4kkd..........fO.B..+.H..7C...vO.B..+.H........"
+	}
+
+}

@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "TB_Ferox_v3",
+	"origin" : "TB_Ferox_v3.auinfo",
+	"type" : "AudioUnit",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "TB_Ferox_v3.auinfo",
+		"plugindisplayname" : "TB_Ferox_v3",
+		"pluginsavedname" : "TB_Ferox_v3",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "277.hAGaoMGcv.y0AHv.DTfAGfPBJr.CM3PWPI2amIWXs4TcsIVYxQEc4AWYb0VXtUmYgMFc0IWYxQkag0VYWY2bzQVXzE1U1Ulbyk1atc0b0IFc4AWYP.fDgUmY3IAUO4jPWQTYlEVcrQ2SPP2Pi41R....rYDdCsF...P.TMiQXA...D....vCDUlYgUGazA...........................3CSL2bOLyby7bFsp4CSL2rOfyTx9z2WR+SdYoG..........3Cf..vO.B..+....7Cf..vO.B........Q.RP0LFgEBWThJ2vCQLQkUaAFZeGN.......P.A.........vC....................lC"
+	}
+
+}
